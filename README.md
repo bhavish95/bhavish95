@@ -1,5 +1,6 @@
-### Hi there 👋
+
 <img src="https://github.com/bhavish95/bhavish95/blob/main/standard%20(1).gif" width="1800"/>
+<h1 align="center">Hi 👋, I'm BHAVISH</h1>
 # 💫 About Me:
 🎓 I'm a 4th-year B.Tech Computer Science student at DIT University.<br>🔍 My focus areas include Cyber/Computer Forensics and Counterterrorism.<br>I'm passionate about exploring the world of cybersecurity and its applications in countering digital threats. As a computer science enthusiast, I enjoy diving into complex problems and finding innovative solutions<br>
 <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400"/>
